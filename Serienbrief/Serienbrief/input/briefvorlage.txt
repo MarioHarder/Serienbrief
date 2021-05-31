@@ -1,0 +1,7 @@
+{Anrede} {Vorname} {Name},
+
+Gerne möchten wir Sie darüber informieren, dass Ihre bestellten Produkte heute per Post verschickt werden.
+Wir weisen Sie darauf hin, dass wir die Rechnung elektronisch an die von Ihnen vermerkte E-Mail-Adresse ({EMail}) zustellen werden.
+
+Freundliche Grüsse
+Versando Group
